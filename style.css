@@ -1,6 +1,6 @@
 *{
-     margin:0;
-     padding:0; 
+     margin:1000;
+     padding:1000; 
 }
 
 header{
@@ -11,8 +11,10 @@ color:#fff;
 background-color:rgb(49, 55, 71);
 }
 .login{
-    width: 200px;
-    
+    width: 90px;
+    margin-left: 1270px;
+    transition: step-start;
+}
 
 .hellotextdesine{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
