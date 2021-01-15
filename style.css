@@ -1,6 +1,6 @@
 *{
-     margin:auto;
-     padding:auto; 
+     margin:0;
+     padding:0; 
 }
 
 header{
@@ -12,7 +12,7 @@ background-color:rgb(49, 55, 71);
 }
 .login{
     width: 90px;
-    margin-left: 1240px;
+    margin-left: auto;
     transition: step-start;
 }
 
