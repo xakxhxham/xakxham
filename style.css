@@ -59,14 +59,15 @@ section{ display: flex;  }
 
 .rightside{ width: 55%; height: 300px; color: white; text-align: center; margin-top: 80px; padding: 40px;}
 
-.rightside h1{ text-align: center;
+.rightside h1{
+    margin-right: 40%;
     color:yellowgreen;
     font-size: 50px;
     font-weight: 900;
     text-transform: uppercase; } 
 
 .rightside p {  
-    font-size: 1.1rem; padding: 30px 0; }
+    margin-right:40%; font-size: 1.1rem; padding: 30px 0; }
 
 .rightside button{   font-size: 17px;
     font-weight: 600;
@@ -75,6 +76,7 @@ section{ display: flex;  }
     background: linear-gradient(57deg, #00C6A7 , #1E4D92 ); 
     border-radius: 4px 4px 4px 4px;
     padding: 20px 35px ; 
+    margin-right: 40%;
 }
 
 
