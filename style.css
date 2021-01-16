@@ -8,7 +8,11 @@ html,body{
     overflow-x:hidden;
 }
 
-
+#loding{
+    width:100%;
+    height: 100vh;
+    background: burlywood;
+}
 .site-header {
     width: 100%;
     height: 100vh;
