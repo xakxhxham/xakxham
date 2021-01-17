@@ -57,7 +57,7 @@ nav{
 }
 nav ul a{
     color: white;
-    width: 0px;
+    
 }
 nav ul a:hover{
     background: linear-gradient(57deg, #1E4D92, #00C6A7 );   
