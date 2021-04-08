@@ -105,3 +105,7 @@ section{ display: flex;  }
       background: linear-gradient(57deg, #1E4D92, #00C6A7 );   
 }
    
+<!--version-->
+.version{
+    color:black;
+}
